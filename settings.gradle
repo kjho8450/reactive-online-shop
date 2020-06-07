@@ -1,0 +1,4 @@
+rootProject.name = 'reactive-shop'
+
+include 'backend'
+include 'frontend'
